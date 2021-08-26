@@ -44,15 +44,17 @@
 
 
 ### Model Details
-* **Columns used as inputs in the final model**:
-* **Column(s) used as target(s) in the final model**:
-* **Type of model**:
-* **Software used to implement the model**:
-* **Version of the modeling software**:
-* **Hyperparameters or other settings of your model**:
+* **Columns used as inputs in the final model**: 'LIMIT_BAL', 'PAY_0', 'PAY_2', 'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1',
+       'BILL_AMT2', 'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6',
+       'PAY_AMT1', 'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6'
+* **Column(s) used as target(s) in the final model**: 'DELINQ_NEXT'
+* **Type of model**:Decision Tree Classification Model
+* **Software used to implement the model**: Google Colab 
+* **Version of the modeling software**:Google Colab with Python Ver: 3.6.9
+* **Hyperparameters or other settings of your model**: standrds
 
 ### Quantitative Analysis
-* **Metrics used to evaluate your final model**:
+* **Metrics used to evaluate your final model**: RUC, AUC
 * **State the final values of the metrics for all data: training, validation, and test data**:
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
 
