@@ -54,19 +54,22 @@
 * **Hyperparameters or other settings of your model**: standard
 
 ### Quantitative Analysis
-* **Metrics used to evaluate your final model**: Trainng AUC, Validation AUC, Test AUC
+* **Metrics used to evaluate your final model**: Trainng AUC, Validation AUC, Test AUC, Asian-to-White AIR, Black-to-White AIR, Female-to-Male AIR, Hispanic-to-White AIR
 * **State the final values of the metrics for all data: training, validation, and test data**: 
 *  * Trainng AUC: 0.78 ,
 *  * Validation AUC: 0.75 , 
 *  * Test AUC: 0.74
+*  * Asian-to-White AIR: 1.02
+*  * Black-to-White AIR: 0.87
+*  * Female-to-Male AIR: 1.04
+*  * Hispanic-to-White AIR: 0.84
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
-* ![image](https://user-images.githubusercontent.com/89197698/130963872-36961931-4354-43c1-b899-4fd40cc8faf6.png)
-
+* ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
 
 ### Ethical Considerations
 * **Describe potential negative impacts of using your model**:
-  * Math or software problems
-  * Real-world risks: who, what, when or how
+  * The numerical calculations involved more memory. 
+  * Real-world risks: So the numerical estimations took extra time to complete.
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems
   * Real-world risks: who, what, when or how?
