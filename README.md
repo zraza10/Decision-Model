@@ -51,11 +51,14 @@
 * **Type of model**:Decision Tree Classification Model
 * **Software used to implement the model**: Google Colab 
 * **Version of the modeling software**:Google Colab with Python Ver: 3.6.9
-* **Hyperparameters or other settings of your model**: standrds
+* **Hyperparameters or other settings of your model**: standard
 
 ### Quantitative Analysis
-* **Metrics used to evaluate your final model**: RUC, AUC
-* **State the final values of the metrics for all data: training, validation, and test data**:
+* **Metrics used to evaluate your final model**: Trainng AUC, Validation AUC, Test AUC
+* **State the final values of the metrics for all data: training, validation, and test data**: 
+*  * Trainng AUC: 0.78 ,
+*  * Validation AUC: 0.75 , 
+*  * Test AUC: 0.74
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
 
 ### Ethical Considerations
