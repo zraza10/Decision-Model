@@ -69,7 +69,7 @@
 ### Ethical Considerations
 * **Describe potential negative impacts of using your model**:
   * The numerical calculations involved more memory. 
-  * Real-world risks: So the numerical estimations took extra time to complete.
+  * Real-world risks: So the numerical estimations took extra time to complete. 
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems
   * Real-world risks: who, what, when or how?
