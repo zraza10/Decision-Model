@@ -60,6 +60,8 @@
 *  * Validation AUC: 0.75 , 
 *  * Test AUC: 0.74
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
+* ![image](https://user-images.githubusercontent.com/89197698/130963872-36961931-4354-43c1-b899-4fd40cc8faf6.png)
+
 
 ### Ethical Considerations
 * **Describe potential negative impacts of using your model**:
