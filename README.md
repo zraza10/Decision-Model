@@ -69,6 +69,7 @@
 * **Describe potential negative impacts of using your model**:
   * Math or software problems:
     * A small change in the data can cause a large change in the structure of the decision tree causing instability. 
+    * Single Decision tree is often a weak learner so we require a bunch of decision tree called random forest for better prediction.
   * Real-world risks: 
     * As the AIR for Hispanic to White is 84 percent and it could result in racial profiling. 
 * **Describe potential uncertainties relating to the impacts of using your model**:
