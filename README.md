@@ -64,7 +64,7 @@
    * Hispanic-to-White AIR: 0.84
    * Female-to-Male AIR: 1.04
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
-* ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
+ ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
 ### Ethical Considerations
 * **Describe potential negative impacts of using your model**:
   * The numerical calculations involved more memory. 
