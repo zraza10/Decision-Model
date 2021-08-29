@@ -51,7 +51,7 @@
 * **Type of model**:Decision Tree Classification Model
 * **Software used to implement the model**: Google Colab 
 * **Version of the modeling software**:Google Colab with Python Ver: 3.6.9
-* **Hyperparameters or other settings of your model**: standard
+* **Hyperparameters or other settings of your model**: test size, tree depth, AIR ration and cutoff which we changed it to 18% were hyperparameters of our decision tree model.
 
 ### Quantitative Analysis
 * **Metrics used to evaluate your final model**: Training AUC, Validation AUC, Test AUC, Asian-to-White AIR, Black-to-White AIR, Hispanic-to-White AIR, Female-to-Male AIR, mean_squared_error, roc_auc_score, cross_val_score, accuracy_score.
