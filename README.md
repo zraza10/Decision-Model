@@ -71,7 +71,7 @@
     * A small change in the data can cause a large change in the structure of the decision tree causing instability. 
     * Single Decision tree is often a weak learner so we require a bunch of decision tree called random forest for better prediction.
   * Real-world risks: 
-    * As the AIR for Hispanic to White is 84 percent and it could result in racial profiling. 
+    * As the AIR for Hispanic to White is 83 percent and it could result in racial profiling. 
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems:
     * All the nodes of a specific level in a decision tree depend on the nodes in their previous levels. In other words, how you define the nodes on level ‘n +1’ depends entirely on your definition for the nodes on the level ‘n.’ If your definition at level ‘n’ is wrong, all the subsequent levels and the nodes present in those levels would also be wrong and this could be manipulated by hacker.
