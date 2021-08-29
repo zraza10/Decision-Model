@@ -67,8 +67,8 @@
  ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
 ### Ethical Considerations
 * **Describe potential negative impacts of using your model**:
-  * The numerical calculations involved more memory. 
-  * Real-world risks: So the numerical estimations took extra time to complete. 
+  * Math or software problems:A small change in the data can cause a large change in the structure of the decision tree causing instability. 
+  * Real-world risks: As the AIR for Hispanic to White is 84 percent it could result in racial profiling. 
 * **Describe potential uncertainties relating to the impacts of using your model**:
   * Math or software problems
   * Real-world risks: who, what, when or how?
