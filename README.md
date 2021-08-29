@@ -61,8 +61,8 @@
 *  * Test AUC: 0.74
 *  * Asian-to-White AIR: 1.02
 *  * Black-to-White AIR: 0.87
-*  * Female-to-Male AIR: 1.04
 *  * Hispanic-to-White AIR: 0.84
+*  * Female-to-Male AIR: 1.04
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
 * ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
 
