@@ -78,4 +78,3 @@
   * Real-world risks: who, what, when or how?
     * Decision-tree analysis can help identify or uncover the potential impacts of alternatives so that a decision maker can select the option that is most consistent with her ethical and moral beliefs by adding backdoors into model scoring and exploiting backdoors with watermarked data.
 * **Describe any unexpected or results**: 
-    * Decision-tree analysis can help identify or uncover the potential impacts of alternatives so that a decision maker can select the option that is most consistent with her ethical and moral belie
