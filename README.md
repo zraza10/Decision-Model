@@ -56,13 +56,13 @@
 ### Quantitative Analysis
 * **Metrics used to evaluate your final model**: Training AUC, Validation AUC, Test AUC, Asian-to-White AIR, Black-to-White AIR, Hispanic-to-White AIR, Female-to-Male AIR, mean_squared_error, roc_auc_score, cross_val_score, accuracy_score.
 * **State the final values of the metrics for all data: training, validation, and test data**: 
-   * Trainng AUC: 0.78,
-   * Validation AUC: 0.74 , 
-   * Test AUC: 0.7438
-   * Asian-to-White AIR: 1.00
-   * Black-to-White AIR: 0.85
-   * Hispanic-to-White AIR: 0.83
-   * Female-to-Male AIR: 1.02
+   * Trainng AUC: 0.78 ,
+   * Validation AUC: 0.75 , 
+   * Test AUC: 0.74
+   * Asian-to-White AIR: 1.02
+   * Black-to-White AIR: 0.87
+   * Hispanic-to-White AIR: 0.84
+   * Female-to-Male AIR: 1.04
 * **Provide any plots related to your data or final model -- be sure to label the plots!**:
  ![image](https://user-images.githubusercontent.com/89197698/130970062-d6d5418c-f176-4534-8243-cbfc3c50aa3a.png)
 ### Ethical Considerations
@@ -73,7 +73,9 @@
   * Real-world risks: 
     * As the AIR for Hispanic to White is 84 percent and it could result in racial profiling. 
 * **Describe potential uncertainties relating to the impacts of using your model**:
-  * Math or software problems
+  * Math or software problems:
+    * All the nodes of a specific level in a decision tree depend on the nodes in their previous levels. In other words, how you define the nodes on level ‘n +1’ depends entirely on your definition for the nodes on the level ‘n.’ If your definition at level ‘n’ is wrong, all the subsequent levels and the nodes present in those levels would also be wrong and this could be manipulated by hacker.
   * Real-world risks: who, what, when or how?
     * Decision-tree analysis can help identify or uncover the potential impacts of alternatives so that a decision maker can select the option that is most consistent with her ethical and moral beliefs by adding backdoors into model scoring and exploiting backdoors with watermarked data.
-* **Describe any unexpected or results**:
+* **Describe any unexpected or results**: 
+    * Decision-tree analysis can help identify or uncover the potential impacts of alternatives so that a decision maker can select the option that is most consistent with her ethical and moral belie
