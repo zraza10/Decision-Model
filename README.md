@@ -54,7 +54,7 @@
 * **Hyperparameters or other settings of your model**: standard
 
 ### Quantitative Analysis
-* **Metrics used to evaluate your final model**: Training AUC, Validation AUC, Test AUC, Asian-to-White AIR, Black-to-White AIR, Hispanic-to-White AIR, Female-to-Male AIR.
+* **Metrics used to evaluate your final model**: Training AUC, Validation AUC, Test AUC, Asian-to-White AIR, Black-to-White AIR, Hispanic-to-White AIR, Female-to-Male AIR,mean_squared_error, roc_auc_score, cross_val_score.
 * **State the final values of the metrics for all data: training, validation, and test data**: 
 *  * Trainng AUC: 0.78 ,
 *  * Validation AUC: 0.75 , 
