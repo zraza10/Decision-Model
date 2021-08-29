@@ -2,7 +2,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Zeeshan Raza, "zraza10@gwmail.gwu.edu", MohammadEbrahim Zamani Mazdeh, "ebrahim_zamani@gwu.edu", Mariam Kurasbediani "mariamkuras@gwu.edu", Abid Shafiullah, `abidshafi@gwu.edu`, 
+* **Person or organization developing model**: Zeeshan Raza, "zraza10@gwmail.gwu.edu", MohammadEbrahim Zamani Mazdeh, "ebrahim_zamani@gwu.edu", Mariam Kurasbediani "mariamkuras@gwu.edu", Abid Shafiullah, "abidshafi@gwmail.gwu.edu", 
 * **Model date**: August, 2021
 * **Model version**: 1.0
 * **License**: MIT
